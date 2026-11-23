@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.DS_Store
+
+# Lab 8 test outputs and local env
+.env.test
+coverage/
+*.test.json
